@@ -1,5 +1,7 @@
 Product Maintenance
 
+Sean Daly
+
 Copyright (c) [2019] [(enter your name here)]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
